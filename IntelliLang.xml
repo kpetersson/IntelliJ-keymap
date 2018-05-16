@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>th/@onClick</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("onClick")).withParent(xmlTag().withLocalName(string().equalTo("th")))]]></place>
+    </injection>
+  </component>
+</application>
