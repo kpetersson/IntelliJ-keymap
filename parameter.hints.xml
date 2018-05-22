@@ -1,7 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="java.util.Optional.orElseGet(other)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
