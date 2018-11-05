@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="statisticsView.scss" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="manually testing" type="PLAIN_TEXT" />
       <mapping ext="vtt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
