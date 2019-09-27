@@ -2,8 +2,6 @@
   <template name="log" value="console.log('$NAME$ ', $VALUE$);&#10;    $END$" description="Inserts console.log();" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JS_STATEMENT" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
