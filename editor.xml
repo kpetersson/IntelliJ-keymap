@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.Pair" />
+    <EXCLUDED_PACKAGE NAME="net.ebstv.emp.integration.core.basic.Pair" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
