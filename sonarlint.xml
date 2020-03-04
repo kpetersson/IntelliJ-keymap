@@ -12,6 +12,7 @@
         <option value="squid:S1940" />
         <option value="squid:S2293" />
         <option value="squid:S3958" />
+        <option value="squid:UselessImportCheck" />
       </set>
     </option>
   </component>
