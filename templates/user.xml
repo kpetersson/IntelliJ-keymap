@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="&lt;abbreviation&gt;" value="public class asd" toReformat="true" toShortenFQNames="true">
+  <template name="&lt;abbreviation&gt;" value="public class asd" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
