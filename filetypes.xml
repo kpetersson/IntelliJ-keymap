@@ -8,6 +8,7 @@
       <mapping pattern="manually testing" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern="ffmpegDockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="primes" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping ext="vtt" type="PLAIN_TEXT" />
