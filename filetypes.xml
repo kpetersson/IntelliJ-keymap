@@ -12,6 +12,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping ext="vtt" type="PLAIN_TEXT" />
+      <mapping ext="hej" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
