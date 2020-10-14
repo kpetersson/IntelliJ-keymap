@@ -1,20 +1,18 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
-    <option name="excludedRules">
-      <set>
-        <option value="javascript:S3317" />
-        <option value="squid:S00112" />
-        <option value="squid:S106" />
-        <option value="squid:S1220" />
-        <option value="squid:S1602" />
-        <option value="squid:S1612" />
-        <option value="squid:S1854" />
-        <option value="squid:S1940" />
-        <option value="squid:S2293" />
-        <option value="squid:S3958" />
-        <option value="squid:UselessImportCheck" />
-      </set>
-    </option>
+    <rules>
+      <Rule active="false" key="squid:S1220" />
+      <Rule active="false" key="squid:S1940" />
+      <Rule active="false" key="squid:S1602" />
+      <Rule active="false" key="squid:UselessImportCheck" />
+      <Rule active="false" key="squid:S00112" />
+      <Rule active="false" key="javascript:S3317" />
+      <Rule active="false" key="squid:S106" />
+      <Rule active="false" key="squid:S1612" />
+      <Rule active="false" key="squid:S1854" />
+      <Rule active="false" key="squid:S2293" />
+      <Rule active="false" key="squid:S3958" />
+    </rules>
   </component>
 </application>
