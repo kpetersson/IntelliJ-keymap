@@ -9,6 +9,7 @@
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="manually testing" type="PLAIN_TEXT" />
       <mapping pattern="primes" type="PLAIN_TEXT" />
+      <mapping pattern="day3" type="PLAIN_TEXT" />
       <mapping pattern="day1" type="PLAIN_TEXT" />
       <mapping pattern="statisticsView.scss" type="PLAIN_TEXT" />
       <mapping pattern="ffmpegDockerfile" type="PLAIN_TEXT" />
