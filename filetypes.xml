@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="day2" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="day4" type="PLAIN_TEXT" />
       <mapping pattern="master" type="PLAIN_TEXT" />
       <mapping pattern="manually testing" type="PLAIN_TEXT" />
       <mapping pattern="primes" type="PLAIN_TEXT" />
