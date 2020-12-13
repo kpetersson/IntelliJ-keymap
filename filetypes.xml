@@ -13,6 +13,7 @@
       <mapping pattern="primes" type="PLAIN_TEXT" />
       <mapping pattern="day3" type="PLAIN_TEXT" />
       <mapping pattern="day1" type="PLAIN_TEXT" />
+      <mapping pattern="day6" type="PLAIN_TEXT" />
       <mapping pattern="statisticsView.scss" type="PLAIN_TEXT" />
       <mapping pattern="ffmpegDockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
